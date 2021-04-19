@@ -1,2 +1,2 @@
- #if  u wanna help me then sure u can
+ # Learn
  This project is just for startup my journey nothing special. 
